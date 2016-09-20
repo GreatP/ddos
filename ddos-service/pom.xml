@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>ddos</artifactId>
+        <groupId>com.zyuc.ddos</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>ddos-service</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>ddos-basic-service</module>
+        <module>ddos-custom-service</module>
+        <module>ddos-system-service</module>
+        <module>ddos-alarm-service</module>
+        <module>ddos-shield-service</module>
+        <module>ddos-order-service</module>
+    </modules>
+
+
+</project>

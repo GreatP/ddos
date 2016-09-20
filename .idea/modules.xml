@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ddos.iml" filepath="$PROJECT_DIR$/ddos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-api/ddos-alarm-api/ddos-alarm-api.iml" filepath="$PROJECT_DIR$/ddos-api/ddos-alarm-api/ddos-alarm-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-service/ddos-alarm-service/ddos-alarm-service.iml" filepath="$PROJECT_DIR$/ddos-service/ddos-alarm-service/ddos-alarm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-web/ddos-alarm-web/ddos-alarm-web.iml" filepath="$PROJECT_DIR$/ddos-web/ddos-alarm-web/ddos-alarm-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-api/ddos-api.iml" filepath="$PROJECT_DIR$/ddos-api/ddos-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-api/ddos-basic-api/ddos-basic-api.iml" filepath="$PROJECT_DIR$/ddos-api/ddos-basic-api/ddos-basic-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-api/ddos-custom-api/ddos-custom-api.iml" filepath="$PROJECT_DIR$/ddos-api/ddos-custom-api/ddos-custom-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-service/ddos-custom-service/ddos-custom-service.iml" filepath="$PROJECT_DIR$/ddos-service/ddos-custom-service/ddos-custom-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-web/ddos-custom-web/ddos-custom-web.iml" filepath="$PROJECT_DIR$/ddos-web/ddos-custom-web/ddos-custom-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-api/ddos-order-api/ddos-order-api.iml" filepath="$PROJECT_DIR$/ddos-api/ddos-order-api/ddos-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-service/ddos-order-service/ddos-order-service.iml" filepath="$PROJECT_DIR$/ddos-service/ddos-order-service/ddos-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-web/ddos-order-web/ddos-order-web.iml" filepath="$PROJECT_DIR$/ddos-web/ddos-order-web/ddos-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-service/ddos-service.iml" filepath="$PROJECT_DIR$/ddos-service/ddos-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-util/ddos-service-util/ddos-service-util.iml" filepath="$PROJECT_DIR$/ddos-util/ddos-service-util/ddos-service-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-api/ddos-shield-api/ddos-shield-api.iml" filepath="$PROJECT_DIR$/ddos-api/ddos-shield-api/ddos-shield-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-service/ddos-shield-service/ddos-shield-service.iml" filepath="$PROJECT_DIR$/ddos-service/ddos-shield-service/ddos-shield-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-web/ddos-shield-web/ddos-shield-web.iml" filepath="$PROJECT_DIR$/ddos-web/ddos-shield-web/ddos-shield-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-api/ddos-system-api/ddos-system-api.iml" filepath="$PROJECT_DIR$/ddos-api/ddos-system-api/ddos-system-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-service/ddos-system-service/ddos-system-service.iml" filepath="$PROJECT_DIR$/ddos-service/ddos-system-service/ddos-system-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-web/ddos-system-web/ddos-system-web.iml" filepath="$PROJECT_DIR$/ddos-web/ddos-system-web/ddos-system-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-util/ddos-util.iml" filepath="$PROJECT_DIR$/ddos-util/ddos-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-web/ddos-web.iml" filepath="$PROJECT_DIR$/ddos-web/ddos-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ddos-util/ddos-web-util/ddos-web-util.iml" filepath="$PROJECT_DIR$/ddos-util/ddos-web-util/ddos-web-util.iml" />
+    </modules>
+  </component>
+</project>
