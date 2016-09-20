@@ -29,7 +29,13 @@
         <module name="ddos-custom-api" />
         <module name="ddos-custom-service" />
         <module name="ddos-custom-web" />
+        <module name="ddos-order-api" />
+        <module name="ddos-order-service" />
+        <module name="ddos-order-web" />
         <module name="ddos-service-util" />
+        <module name="ddos-shield-api" />
+        <module name="ddos-shield-service" />
+        <module name="ddos-shield-web" />
         <module name="ddos-system-api" />
         <module name="ddos-system-service" />
         <module name="ddos-system-web" />
@@ -46,8 +52,14 @@
       <module name="ddos-custom-api" target="1.5" />
       <module name="ddos-custom-service" target="1.5" />
       <module name="ddos-custom-web" target="1.5" />
+      <module name="ddos-order-api" target="1.5" />
+      <module name="ddos-order-service" target="1.5" />
+      <module name="ddos-order-web" target="1.5" />
       <module name="ddos-service" target="1.5" />
       <module name="ddos-service-util" target="1.5" />
+      <module name="ddos-shield-api" target="1.5" />
+      <module name="ddos-shield-service" target="1.5" />
+      <module name="ddos-shield-web" target="1.5" />
       <module name="ddos-system-api" target="1.5" />
       <module name="ddos-system-service" target="1.5" />
       <module name="ddos-system-web" target="1.5" />

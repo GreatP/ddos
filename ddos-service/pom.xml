@@ -12,7 +12,6 @@
     <artifactId>ddos-service</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>ddos-basic-service</module>
         <module>ddos-custom-service</module>
         <module>ddos-system-service</module>
         <module>ddos-alarm-service</module>
