@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="546a1eae-fbfc-4d68-922a-944bb5c557fc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ddos-api/ddos-order-api/ddos-order-api.iml" afterPath="$PROJECT_DIR$/ddos-api/ddos-order-api/ddos-order-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ddos-api/ddos-shield-api/ddos-shield-api.iml" afterPath="$PROJECT_DIR$/ddos-api/ddos-shield-api/ddos-shield-api.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ddos-service/ddos-order-service/ddos-order-service.iml" afterPath="$PROJECT_DIR$/ddos-service/ddos-order-service/ddos-order-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ddos-service/ddos-shield-service/ddos-shield-service.iml" afterPath="$PROJECT_DIR$/ddos-service/ddos-shield-service/ddos-shield-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ddos-service/pom.xml" afterPath="$PROJECT_DIR$/ddos-service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ddos-web/ddos-order-web/ddos-order-web.iml" afterPath="$PROJECT_DIR$/ddos-web/ddos-order-web/ddos-order-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ddos-web/ddos-shield-web/ddos-shield-web.iml" afterPath="$PROJECT_DIR$/ddos-web/ddos-shield-web/ddos-shield-web.iml" />
     </list>
     <ignored path="ddos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -813,7 +805,7 @@
       <option name="presentableId" value="Default" />
       <updated>1474352614659</updated>
       <workItem from="1474352617620" duration="1852000" />
-      <workItem from="1474354713149" duration="316000" />
+      <workItem from="1474354713149" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="基础工程">
       <created>1474354738675</created>
@@ -822,11 +814,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474354738675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="基础工程">
+      <created>1474355038855</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1474355038855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2168000" />
+    <option name="totallyTimeSpent" value="2183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="141" y="0" width="1936" height="1056" extended-state="0" />
